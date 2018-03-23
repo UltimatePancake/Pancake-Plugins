@@ -5,6 +5,9 @@ from discord.ext import commands
 class OneTrueGod:
     """Everything was Nicolas Cage."""
 
+    __author__ = 'UltimatePancake'
+    __version__ = '0.2'
+
     @commands.command(aliases=['onetruegod', 'cage'])
     async def _cage(self, ctx):
         """Post random Nicolas Cage image from placecage.com"""
