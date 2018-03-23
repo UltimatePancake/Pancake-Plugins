@@ -1,0 +1,8 @@
+{
+    "author": ["UltimatePancake"],
+    "version": [3, 0, 0],
+    "description": "Displays random Nicolas Cage images from placecage.com",
+    "install_msg": "Everything was Nicolas Cage, and nothing hurt...",
+    "short": "Displays random Nicolas Cage images",
+    "tags": ["cage", "onetruegod"]
+}
