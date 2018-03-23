@@ -8,8 +8,8 @@ class OneTrueGod:
     __author__ = 'UltimatePancake'
     __version__ = '0.2'
 
-    @commands.command(aliases=['onetruegod', 'cage'])
-    async def _cage(self, ctx):
+    @commands.command(aliases=['cage'])
+    async def onetruegod(self, ctx):
         """Post random Nicolas Cage image from placecage.com"""
 
         placecage = 'https://www.placecage.com'
