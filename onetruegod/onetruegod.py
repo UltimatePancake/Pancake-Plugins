@@ -15,4 +15,4 @@ class OneTrueGod:
         placecage = 'https://www.placecage.com'
         width = randint(200, 700)
         height = randint(200, 700)
-        await ctx.send('{}/{}/{}'.format(placecage, width, height))
+        await ctx.send(f'{placecage}/{width}/{height}')
