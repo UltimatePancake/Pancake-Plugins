@@ -1,0 +1,9 @@
+{
+    "author": ["UltimatePancake"],
+    "version": [3, 0, 0],
+    "description": "Dota player info ~~stolen~~ retrieved from Dotabuff.com",
+    "install_msg": "Y'ALL NEED MORE DOTA, BOI",
+    "short": "DOTA",
+    "tags": ["dota", "dotabuff", "mmr"],
+    "requirements": ["beautifulsoup4", "tabulate"]
+}
